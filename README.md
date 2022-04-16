@@ -1,7 +1,10 @@
 ![XuZhen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuzhen1994&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xuzhen1994.xuzhen1994)
 
-### Hi there 👋
+Hi, I'm xuzhen from beijing, China.
+
+[Blog](https://xuzhen1994.github.io/) [E-Mail](mailto:xuz1994@qq.com)
 
 <!--
 **xuzhen1994/xuzhen1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
