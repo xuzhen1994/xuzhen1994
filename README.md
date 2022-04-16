@@ -4,7 +4,8 @@
 
 Hi, I'm xuzhen from beijing, China.
 
-[Blog](https://xuzhen1994.github.io/) [E-Mail](mailto:xuz1994@qq.com)
+- [Blog](https://xuzhen1994.github.io/)
+- [Email](mailto:xuz1994@qq.com)
 
 <!--
 **xuzhen1994/xuzhen1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
